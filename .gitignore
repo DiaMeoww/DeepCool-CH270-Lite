@@ -1,0 +1,13 @@
+# 运行日志与缓存
+*.log
+logs-server/
+SensorDriver/logs-server/
+report.xml
+SensorDriver/report.xml
+sensor.json
+SensorDriver/sensor.json
+
+# 编译生成临时文件
+*.pdb
+*.obj
+*.tmp

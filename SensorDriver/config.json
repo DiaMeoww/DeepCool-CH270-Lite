@@ -1,0 +1,10 @@
+{
+  "logging": {
+    "log_dir": "logs-server/",
+    "log_level": "info",
+    "mode": "daily",
+    "max_size_mb": 10,
+    "max_files": 7,
+    "pattern": "[%Y-%m-%d %H:%M:%S.%e] [%^%l%$] %v"
+  }
+}

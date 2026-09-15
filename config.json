@@ -1,0 +1,8 @@
+﻿{
+  "enable_display": true,
+  "mode": "CPU",
+  "interval_seconds": 3,
+  "fan_interface": "CPUFANIN0",
+  "temp_unit": "C",
+  "auto_start": true
+}
